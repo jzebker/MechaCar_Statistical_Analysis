@@ -22,5 +22,9 @@
 • current manufacturing data for ***Lot3*** does not meet specs, calculated variance = 170
 
 ## T-Tests on Suspension Coils
+<p align="center">t-test across all lots</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84994321/134059837-0dbecbc9-1c3c-4946-bdb2-e544f6deabf3.png" />
+</p>
 
 ## Study Design: MechaCar vs Competition
