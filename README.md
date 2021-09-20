@@ -27,4 +27,19 @@
   <img src="https://user-images.githubusercontent.com/84994321/134059837-0dbecbc9-1c3c-4946-bdb2-e544f6deabf3.png" />
 </p>
 
+<p align="center">t-test lot1</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84994321/134060034-06604f4e-1ffc-4719-bbdb-e88107596d9c.png" />
+</p>
+
+<p align="center">t-test lot2</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84994321/134060111-74a24559-05d8-4f8e-a74d-b843caaec25b.png" />
+</p>
+
+<p align="center">t-test lot3</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84994321/134060165-9f42211e-0a5d-45e6-8bc0-533b077d97f6.png" />
+</p>
+
 ## Study Design: MechaCar vs Competition
