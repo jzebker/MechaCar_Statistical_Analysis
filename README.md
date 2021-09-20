@@ -13,6 +13,13 @@
   <img src="https://user-images.githubusercontent.com/84994321/134048352-1796c3c2-774c-4f23-bfb7-c070ab89bcac.png" />
 </p>
 
+• the total variance meets specifications
+<p align="center">lot_summary</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84994321/134049007-f2d4747e-9e92-46a8-b8e6-619b7c7e6058.png" />
+</p>
+
+• current manufacturing data does not meet specs, calculated variance > 100 PSI
 
 ## T-Tests on Suspension Coils
 
