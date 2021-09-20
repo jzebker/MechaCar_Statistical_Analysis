@@ -4,7 +4,7 @@
 
 • the ***p-value*** of our linear regression analysis is ***5.37 x 10<sup>-11</sup>***, which is much smaller than our assumed significance level of 0.05%, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is ***not zero***
 
-• the ***r-squared value*** of our model is ***.71***, which indicates a good fit to our current dataset; we have evidence of overfitting since 3 out of 5 
+• the ***r-squared value*** of our model is ***.71***, which indicates a good fit to our current dataset; since we have determined significance in only 2 out of our 5 variables we have evidence of ***overfitting***, this model may fail to generalize and predict future data correctly
 
 ## Summary Statistics on Suspension Coils
 • the design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch
