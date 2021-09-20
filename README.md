@@ -42,4 +42,8 @@
   <img src="https://user-images.githubusercontent.com/84994321/134060165-9f42211e-0a5d-45e6-8bc0-533b077d97f6.png" />
 </p>
 
+• our significance level is the common 0.05 percent and our p-value is above the significance level for all but ***Lot3***
+
+• we do not have sufficient evidence to reject the null hypothesis and we would state that the two means are statistically similar for all but ***Lot3***
+
 ## Study Design: MechaCar vs Competition
