@@ -19,7 +19,7 @@
   <img src="https://user-images.githubusercontent.com/84994321/134049007-f2d4747e-9e92-46a8-b8e6-619b7c7e6058.png" />
 </p>
 
-• current manufacturing data does not meet specs, calculated variance > 100 PSI
+• current manufacturing data for ***Lot3*** does not meet specs, calculated variance = 170
 
 ## T-Tests on Suspension Coils
 
