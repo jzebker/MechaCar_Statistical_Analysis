@@ -57,4 +57,12 @@ America likes muscle cars and pick up trucks while the Earth likes hybrid and el
 <img src="https://user-images.githubusercontent.com/84994321/134104338-6666ed5f-5485-46cf-97e3-29f15fd9f9b3.png" />
 </p>
 
-I want to reproduce rollover tests being mindful of static stability factors (SSF) for MechaCars and competitors.  SSF is a measure of how top-heavy a vehicle is; the lower the SSF, the higher the risk of flipping.
+I want to figure out at what speed I need to take a predetermined turn so the MechaCar loses traction.  I also want to compare this to competitor cars with similar static stability factors (SSF).
+
+• the ***null hypothesis*** will be that the MechaCar will lose traction at the same speed as competitors
+
+• the ***alternate hypothesis*** will be that this is not the case
+
+• I would use a ***one sample t-test*** to determine whether or not there is a statistical difference between slipping speed for the MechaCars vs the larger population of cars with similar SSF values
+
+• we would need to reproduce the same experiment several times on the same course with several different cars of similar SSF including the MechaCar; we would be recording different car velocities and whether the car loses traction or not
