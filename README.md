@@ -47,3 +47,4 @@
 • we do not have sufficient evidence to reject the null hypothesis and we would state that the two means are statistically similar for all but ***Lot3***
 
 ## Study Design: MechaCar vs Competition
+America likes muscle cars and pick up trucks while the Earth likes hybrid and electric vehicles.
