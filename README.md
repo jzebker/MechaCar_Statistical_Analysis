@@ -47,4 +47,8 @@
 • we do not have sufficient evidence to reject the null hypothesis and we would state that the two means are statistically similar for all but ***Lot3***
 
 ## Study Design: MechaCar vs Competition
-America likes muscle cars and pick up trucks while the Earth likes hybrid and electric vehicles.
+<p align="center">
+![image](https://user-images.githubusercontent.com/84994321/134104027-72d711bd-368e-42fc-8619-d8394c3d9efb.png)
+</p>
+
+America likes muscle cars and pick up trucks while the Earth likes hybrid and electric vehicles.  I personally want to compare skid tests between MechaCars and competitors because that sounds like a lot more fun to measure.  If people want to drive aggressively (or drift or do donuts or go to sideshows or whatever) I feel they SHOULD be interested in the physics of their vehicles.  
