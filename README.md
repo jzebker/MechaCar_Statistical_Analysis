@@ -57,7 +57,7 @@ America likes muscle cars and pick up trucks while the Earth likes hybrid and el
 <img src="https://user-images.githubusercontent.com/84994321/134104338-6666ed5f-5485-46cf-97e3-29f15fd9f9b3.png" />
 </p>
 
-I want to figure out at what speed I need to take a predetermined turn so the MechaCar loses traction.  I also want to compare this to competitor cars with similar static stability factors (SSF).
+I want to figure out at what speed I need to take a predetermined turn so the MechaCar loses traction.  I also want to compare this to competitor cars with similar static stability factors (SSF).  SSF is equal to half of the car track width divided by the height of the car's center of gravity.
 
 • the ***null hypothesis*** will be that the MechaCar will lose traction at the same speed as competitors
 
