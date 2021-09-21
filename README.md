@@ -63,6 +63,6 @@ I want to figure out at what speed I need to take a predetermined turn so the Me
 
 • the ***alternate hypothesis*** will be that this is not the case
 
-• I would use a ***one sample t-test*** to determine whether or not there is a statistical difference between slipping speed for the MechaCars vs the larger population of cars with similar SSF values
+• I would use an ***ANOVA test*** to determine whether or not there is a statistical difference between slipping speed for the MechaCars vs cars with similar SSF values
 
 • we would need to reproduce the same experiment several times on the same course with several different cars of similar SSF including the MechaCar; we would be recording different car velocities and whether the car loses traction or not
