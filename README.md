@@ -49,6 +49,7 @@
 ## Study Design: MechaCar vs Competition
 <p align="center">
 <img src="https://user-images.githubusercontent.com/84994321/134104027-72d711bd-368e-42fc-8619-d8394c3d9efb.png" />
+<img src="https://user-images.githubusercontent.com/84994321/134104338-6666ed5f-5485-46cf-97e3-29f15fd9f9b3.png" />
 </p>
 
 America likes muscle cars and pick up trucks while the Earth likes hybrid and electric vehicles.  I personally want to compare skid tests between MechaCars and competitors because that sounds like a lot more fun to measure.  If people want to drive aggressively (or drift or do donuts or go to sideshows or whatever) I feel they SHOULD be interested in the physics of their vehicles.  
